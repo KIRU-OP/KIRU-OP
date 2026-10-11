@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/KIRU-OP/KIRU-OP/main/naruto_banner.svg" width="100%" alt="Naruto Animated Banner"/>
-
 ![Village](https://img.shields.io/badge/Village-Hidden_Leaf_%F0%9F%8D%83-ff7a00?style=for-the-badge&labelColor=1a1a24)
 ![Rank](https://img.shields.io/badge/Rank-Hokage_in_Making-ff7a00?style=for-the-badge&labelColor=1a1a24)
 ![Tailed Beast](https://img.shields.io/badge/Tailed_Beast-Kurama_%F0%9F%A6%8A-ff7a00?style=for-the-badge&labelColor=1a1a24)
@@ -168,7 +166,7 @@
 Mera kaam pasand aaye to ek chhota sa chakra donation kar do 🍥
 Scan with any UPI app (GPay, PhonePe, Paytm...)
 
-<img src="https://raw.githubusercontent.com/KIRU-OP/KIRU-OP/main/naruto_qr_animated.svg" width="340" alt="Naruto Animated UPI QR"/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=320x320&ecc=H&margin=14&color=1a1a24&bgcolor=ffb347&data=upi%3A%2F%2Fpay%3Fpa%3Dshivampatel425685-1%40okhdfcbank%26pn%3DHYPER%2520OP%26aid%3DuGICAgICfwqTbHg" width="300" alt="Naruto UPI QR"/>
 
 **UPI ID:** `shivampatel425685-1@okhdfcbank`
 
