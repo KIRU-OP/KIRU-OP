@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff7a00,50:1a1a24,100:ff7a00&height=230&section=header&text=%F0%9F%8D%A5%20NARUTO%20x%20CODE%20%F0%9F%8D%A5&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E7%81%AB%E3%81%AE%E6%84%8F%E5%BF%97%20%7C%20The%20Will%20of%20Fire%20Burns%20in%20My%20Code&descAlignY=62&descSize=17&descColor=ffe0b3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff7a00,50:1a1a24,100:ff7a00&height=230&section=header&text=%F0%9F%8D%A5%20NARUTO%20x%20CODE%20%F0%9F%8D%A5&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E7%81%AB%E3%81%AE%E6%84%8F%E5%BF%97%20%7C%20The%20Will%20of%20Fire%20Burns%20in%20My%20Code&descAlignY=62&descSize=17&descColor=ffe0b3&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF7A00&center=true&vCenter=true&width=700&lines=Believe+it!+Dattebayo!+%F0%9F%8D%A5;I'm+gonna+be+the+Hokage+of+Code+%F0%9F%91%92;Kage+Bunshin+no+Jutsu+%3D+Telegram+Bots+%F0%9F%A4%96;Never+go+back+on+my+word+-+that's+my+nindo+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
+
+<img src="naruto_banner.svg" width="100%" alt="Naruto Animated Banner"/>
 
 ![Village](https://img.shields.io/badge/Village-Hidden_Leaf_%F0%9F%8D%83-ff7a00?style=for-the-badge&labelColor=1a1a24)
 ![Rank](https://img.shields.io/badge/Rank-Hokage_in_Making-ff7a00?style=for-the-badge&labelColor=1a1a24)
@@ -167,7 +169,7 @@
 Mera kaam pasand aaye to ek chhota sa chakra donation kar do 🍥
 Scan with any UPI app (GPay, PhonePe, Paytm...)
 
-<img src="naruto_qr.png" width="320" alt="Naruto Themed UPI QR"/>
+<img src="naruto_qr_animated.svg" width="340" alt="Naruto Animated UPI QR"/>
 
 **UPI ID:** `shivampatel425685-1@okhdfcbank`
 
@@ -187,6 +189,6 @@ Scan with any UPI app (GPay, PhonePe, Paytm...)
 
 **Dattebayo! 🍜 Ichiraku Ramen is on me.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,50:1a1a24,100:ff7a00&height=110&section=footer&text=Believe%20it!&fontSize=28&fontColor=ffffff&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,50:1a1a24,100:ff7a00&height=110&section=footer&text=Believe%20it!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
