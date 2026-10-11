@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="naruto_banner.svg" width="100%" alt="Naruto Animated Banner"/>
+<img src="https://raw.githubusercontent.com/KIRU-OP/KIRU-OP/main/naruto_banner.svg" width="100%" alt="Naruto Animated Banner"/>
 
 ![Village](https://img.shields.io/badge/Village-Hidden_Leaf_%F0%9F%8D%83-ff7a00?style=for-the-badge&labelColor=1a1a24)
 ![Rank](https://img.shields.io/badge/Rank-Hokage_in_Making-ff7a00?style=for-the-badge&labelColor=1a1a24)
@@ -110,22 +110,21 @@
 
 ### 🦊 Chakra Stats
 
-> ⚠️ `YOUR_GITHUB_USERNAME` ko apne GitHub username se replace kar dena.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&icon_color=ff7a00&text_color=ffe0b3&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KIRU-OP&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&icon_color=ff7a00&text_color=ffe0b3&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&text_color=ffe0b3"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRU-OP&layout=compact&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&text_color=ffe0b3"/>
 
-[![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=1A1A24&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFE0B3&currStreakNum=FFE0B3&sideNums=FFE0B3&dates=FFE0B3)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=KIRU-OP&theme=dark&hide_border=true&background=1A1A24&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFE0B3&currStreakNum=FFE0B3&sideNums=FFE0B3&dates=FFE0B3)](https://git.io/streak-stats)
 
 </div>
 
 <h3 align="center">🔥 Training Log (Activity Graph)</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1a24&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRU-OP&bg_color=1a1a24&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
@@ -169,7 +168,7 @@
 Mera kaam pasand aaye to ek chhota sa chakra donation kar do 🍥
 Scan with any UPI app (GPay, PhonePe, Paytm...)
 
-<img src="naruto_qr_animated.svg" width="340" alt="Naruto Animated UPI QR"/>
+<img src="https://raw.githubusercontent.com/KIRU-OP/KIRU-OP/main/naruto_qr_animated.svg" width="340" alt="Naruto Animated UPI QR"/>
 
 **UPI ID:** `shivampatel425685-1@okhdfcbank`
 
