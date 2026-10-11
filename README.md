@@ -108,22 +108,27 @@
 
 ### 🦊 Chakra Stats
 
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KIRU-OP&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&icon_color=ff7a00&text_color=ffe0b3&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRU-OP&layout=compact&theme=radical&hide_border=true&bg_color=1a1a24&title_color=ff7a00&text_color=ffe0b3"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=KIRU-OP&color=ff7a00&style=for-the-badge&label=Shinobi+Visits&labelColor=1a1a24)](https://github.com/KIRU-OP)
+[![Followers](https://img.shields.io/github/followers/KIRU-OP?style=for-the-badge&color=ff7a00&labelColor=1a1a24&logo=github&label=Allies)](https://github.com/KIRU-OP?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-KIRU--OP-ff7a00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a24)](https://github.com/KIRU-OP)
 
-[![Streak](https://streak-stats.demolab.com?user=KIRU-OP&theme=dark&hide_border=true&background=1A1A24&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFE0B3&currStreakNum=FFE0B3&sideNums=FFE0B3&dates=FFE0B3)](https://git.io/streak-stats)
+![Chakra](https://img.shields.io/badge/Chakra-Unlimited_%E2%99%BE%EF%B8%8F-ff7a00?style=for-the-badge&labelColor=1a1a24)
+![Missions](https://img.shields.io/badge/Missions-Always_Open-ff7a00?style=for-the-badge&labelColor=1a1a24)
+![Training](https://img.shields.io/badge/Training-Daily_%F0%9F%92%AA-ff7a00?style=for-the-badge&labelColor=1a1a24)
+
+```text
+┌──────────────────────────────────────────┐
+│  🍥 NINJA REGISTRATION CARD              │
+│  Name    : KIRU-OP                       │
+│  Village : Hidden Leaf 🍃                │
+│  Rank    : Genin ➜ Hokage 👒             │
+│  Chakra  : ████████████████████  MAX     │
+└──────────────────────────────────────────┘
+```
 
 </div>
-
-<h3 align="center">🔥 Training Log (Activity Graph)</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRU-OP&bg_color=1a1a24&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
 
 ---
 
